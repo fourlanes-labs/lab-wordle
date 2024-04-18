@@ -54,4 +54,17 @@ Exclude the following features:
 - Settings
 - Statistics
 
+### What We Expect to See
+
+- A fully setup node development environment, with instructions on how to run the code (add this under the `How to Run` section below).
+- A linter (eslint) and a code formatter setup and in use.
+- Neat and organised code that's easy to understand
+- A functioning Wordle game, deployed on GitHub pages.
+- Use of Stimulus and Bootstrap.
+
+<br>
+
+
+## How To Run
+
 <br>
