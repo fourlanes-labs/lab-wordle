@@ -18,7 +18,7 @@
   - Use [WebPack](https://webpack.js.org/) to optimise and bundle your code.
   - Optimise you development experience with watchers and hot-reloading. 
   - Use [Stimulus](https://stimulus.hotwired.dev/) to augment your HTML.
-  - Fetch data from a remote API
+  - Fetch data from a remote API (https://dictionaryapi.dev/)
   <br>
   <hr> 
 
